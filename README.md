@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-### [my portfolio](https://minami-takanori-portfolio.vercel.app/)
 
 <!--
 **norizone/norizone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
