@@ -1,8 +1,4 @@
-## Hi there 👋
-
-
-
-## [Guiter App](https://gita-gita-kun.vercel.app/)
+## [🎸Guiter App](https://gita-gita-kun.vercel.app/)
 
 
 <!--
